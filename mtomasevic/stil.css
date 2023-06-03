@@ -1,0 +1,59 @@
+
+p {
+	color: rebeccapurple;
+	font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 20px;
+	width: 500;
+	background-color:lightgray;
+	padding:20px;
+}
+
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:cadetblue;
+}
+
+span {
+	color:steelblue;
+}
+
+body {
+	background-image: url("Slike/background-img.jpg");
+}
+
+a:link {
+	background-color: lightgray;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+}
+
+a:hover {
+	color: orange;
+	background-color: gray;
+}
+
+.orange {
+	color: orange;
+}
+
+img {
+	height:400px;
+}
+
+.paragraf1 {
+	color: black;
+	font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 20px;
+	width: 500;
+	background-color:lightgray;
+	padding:20px;
+}
+
+.bigblock {
+	background-color:lightgray;
+	padding:20px;
+	width:30%;
+}
