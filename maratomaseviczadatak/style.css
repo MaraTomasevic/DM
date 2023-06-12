@@ -1,0 +1,255 @@
+
+
+.navigacija {
+    padding-left: 50px;
+    background-color: lightgrey;
+    padding: 30px;
+    width: 330px;
+}
+
+a:link {
+    color:black;
+    padding: 10px;
+    margin-left: 30px;
+    line-height: 10px;
+	border:1px solid #000000;
+}
+
+a:hover {
+    color: rgb(99, 143, 99);
+    background-color: rgb(230, 230, 230);
+}
+
+.background-one {
+    margin-top: 30px;
+    margin-left: 30px;
+    background-image: url("Slike/background-img.jpg");
+}
+
+.background-two {
+    margin-top: 30px;
+    margin-left: 30px;
+    background-image: url("Slike/background2-img.jpg");
+}
+
+.pocetna {
+    background-color: rgb(105, 103, 55);
+    width: 380px;
+    padding: 5px;
+	font-family: "MaraTomasevic";
+}
+
+h2 {
+    background-color: lightgrey;
+    width: 380px;
+    padding: 5px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.uvod {
+    padding: 5px;
+    color: white;
+    width: 440px;
+    font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+}
+
+.mara {
+    color: white;
+}
+
+.omeni {
+    padding: 5px;
+    color: white;
+    width: 920px;
+    font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+    background-color: rgb(114, 92, 85);
+}
+
+.O-meni-naslov {
+    background-color: rgb(131, 105, 97);
+    width: 380px;
+    padding: 5px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+h1 {
+    background-color: rgb(65, 163, 114);
+    width: 380px;
+    padding: 5px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+
+mark {
+    background-color:rgb(105, 103, 55);
+    padding-left: 2px;
+    padding-right: 2px;
+    color: white;
+}
+
+.slika1  {
+    width: 400px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.slika3  {
+    width: 800px;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.slika2  {
+    width: 354px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.vanjskivideo {
+    color:black;
+    background-color:white;
+    border-color: lightgrey;
+    padding: 5px;
+}
+
+.vanjskivideo:hover {
+    background-color:rgb(105, 103, 55);
+    border-color: rgb(75, 73, 35);
+    color: white;
+}
+
+.vektorskagrafika {
+    background-color: rgb(139, 203, 228);
+    width:800px;
+    padding: 5px;
+    font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+}
+
+.vjezbejedan {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 340px;
+    height: auto;
+}
+
+.vjezbedva {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 340px;
+    height: auto;
+}
+
+.vjezbetri-1 {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 340px;
+    height: auto;
+}
+
+.vjezbetri-2 {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 340px;
+    height: auto;
+}
+
+.vjezbecetiri-1 {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 340px;
+    height: auto;
+}
+
+.vjezbecetiri-2 {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 340px;
+    height: auto;
+}
+
+.projektnizadatak5 {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 340px;
+    height: auto;
+}
+
+.pikselgrafika {
+    background-color: rgb(139, 203, 228);
+    width:800px;
+    padding: 5px;
+    font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+}
+
+.vjezbapet-1 {
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 340px;
+    width: auto;
+}
+
+.vjezbapet-2 {
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 340px;
+    width: auto;
+}
+
+.vjezbasest-1 {
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 340px;
+    width: auto;
+}
+
+.vjezbasest-2 {
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 340px;
+    width: auto;
+}
+
+.vjezbasedam {
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 340px;
+    width: auto;
+}
+
+.projektnizadatak8 {
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 340px;
+    width: auto;
+}
+
+.video-web {
+    background-color: rgb(139, 203, 228);
+    width:800px;
+    padding: 5px;
+    font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+}
+
+.vjezbaosam-1 {
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 340px;
+    width: auto;
+}
+
+.vjezbaosam-2 {    
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 340px;
+    width: auto;
+}
+
+.opisrada {
+    background-color: rgb(139, 203, 228);
+    width:1000px;
+    padding: 5px;
+    font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+}
