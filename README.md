@@ -1,3 +1,3 @@
 # DM
 Digitalni-Multimediji
-https://maratomasevic.github.io/DM/mtomasevic/
+https://maratomasevic.github.io/DM/maratomaseviczadatak/
